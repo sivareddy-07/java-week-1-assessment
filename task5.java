@@ -8,7 +8,7 @@ class task5 {
         while (d <= input2) {
             int c = 0;
 
-            if (d < 2) {   // Numbers less than 2 are not prime
+            if (d < 2) {
                 d++;
                 continue;
             }
